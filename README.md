@@ -46,13 +46,13 @@ A sophisticated emotion detection system that uses computer vision and facial la
 ## 📸 Screenshots
 
 ### Emotion Detection Examples
-![Happy Detection](screenshots/happy.jpg)
+![Happy Detection](screenshots/content.jpg)
 *Detection of happy expression with facial landmarks*
 
 ![Neutral Expression](screenshots/neutral.jpg)
 *Neutral expression detection with feature points*
 
-![Concerned Detection](screenshots/concerned.jpg)
+![Concerned Detection](screenshots/surprised.jpg)
 *Detection of concerned expression with visual feedback*
 
 ## 🚀 Installation
